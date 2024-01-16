@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ShineArtisans</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on ShineArtisans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2024 18:51:01 +1100</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Porsche</title>
+      <link>/categories/porsche/</link>
+      <pubDate>Tue, 16 Jan 2024 18:51:01 +1100</pubDate>
+      <guid>/categories/porsche/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

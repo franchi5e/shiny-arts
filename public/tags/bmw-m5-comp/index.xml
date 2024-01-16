@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BMW M5 comp on ShineArtisans</title>
+    <link>/tags/bmw-m5-comp/</link>
+    <description>Recent content in BMW M5 comp on ShineArtisans</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2024 18:51:01 +1100</lastBuildDate>
+    <atom:link href="/tags/bmw-m5-comp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ShineArtisans</title>
+      <link>/posts/first/</link>
+      <pubDate>Tue, 16 Jan 2024 18:51:01 +1100</pubDate>
+      <guid>/posts/first/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

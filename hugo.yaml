@@ -1,0 +1,41 @@
+baseURL: 
+languageCode: en-us
+title: ShineArtisans
+theme: PaperMod
+
+params:
+  homeInfoParams:
+   Title: "Looking To Clean Your Car?"
+   Content: Welcome, We Are Shine Artisans and Here You'll Be Able To Contact Us and Inquire
+  socialIcons:
+     - name: Gmail
+       url: 'https://mail.google.com/'
+     - name: Instagram
+       url: 'https://www.instagram.com/shineartisans/'
+     - name: TikTok
+       url: 'https://www.tiktok.com/@shineartisans'
+  cover:
+  linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu:
+    main:
+    - identifier: Testimonials
+      name: Testimonials
+      url: /categories/
+      weight: 10
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 20           
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 30
